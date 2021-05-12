@@ -2,13 +2,16 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
-#header_pages:
+header_pages:
   - index.md
+  - peter.md
   - about.md
+  - contact.md
+
 
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
-style: dark
+style: hacker
 
 listen_for_clients_preferred_style: true # true or false (default)
 
