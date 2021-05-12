@@ -16,4 +16,4 @@ No affiliation with what it sounds like it's a combination of syllables that all
 nin==authority|the way
 dev==discipline ( development/engineering )
 do==time|get er done
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.wyxywu4r2liwoutubeId %}
