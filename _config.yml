@@ -1,6 +1,7 @@
-# Example Site settings
-
-#google_analytics: UA-NNNNNNNN-N
+title: 'nindevdo'
+description: "An Org"
+#baseurl: "/jekyll-theme-console-demo-hacker"
+url: "https://nindevdo.com"
 
 header_pages:
   - index.md
@@ -8,12 +9,10 @@ header_pages:
   - about.md
   - contact.md
 
+style: hacker
 
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
-style: hacker
-
-listen_for_clients_preferred_style: true # true or false (default)
-
-#plugins:
- # - jekyll-seo-tag
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
