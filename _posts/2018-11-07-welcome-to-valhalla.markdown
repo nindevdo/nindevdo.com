@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Valhalla!"
-date:   2018-11-07 12:32:45 +0100
-categories:
+title:  "Welcome to nindevdo!"
+date:   2021-05-11 23:32:45 +0100
+categories: blog
 ---
 
-# Welcome to Valhalla!
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Welcome to nindevdo!
+nindevdo has launched and is aimed to provide the best open source tooling possible for the community. Our aim is devops, automation, and linux tooling but who knows maybe it will turn into something more. 
 
-## Another title
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+## What are you?
+nin-dev-do is a dedicated resource for devops & automation tooling, education, training, and consulting. We want to provide high quality excellence that can empower engineering teams.
