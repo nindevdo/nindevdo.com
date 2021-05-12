@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Docker Daily Driver
+title:  "Docker Daily Driver"
 date:   2021-05-11 23:45:00 +0100
 categories: Docker, Linux
 ---
