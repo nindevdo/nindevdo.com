@@ -2,7 +2,8 @@
 layout: post
 title:  "Docker Daily Driver"
 date:   2021-05-11 23:45:00 +0100
-categories: Docker, Linux
+categories: docker
+tags: docker, linux
 ---
 
 # What do you mean?
