@@ -9,7 +9,7 @@ header_pages:
 
 style: hacker
 
-footer: 'Support us with bitcoin <img src = "assets/bitcoin-coinbase.png" alt="bitcoin" border = "0"/>'
+footer: 'Support us with bitcoin </br> <img src="assets/bitcoin-coinbase.png" width="100px" height="100px" alt="bitcoin" border = "0"/>'
 
 google_analytics: 272918663
 
