@@ -5,12 +5,12 @@ url: "https://nindevdo.com"
 
 header_pages:
   - index.md
-  - about.md
-  - contact.md
+#  - about.md
+#  - contact.md
 
 style: hacker
 
-footer: 'Support us with <a href="#">bitcoin</a>'
+footer: 'Support us with bitcoin <img src = "assets/bitcoin-coinbase.png" alt="bitcoin" border = "0"/>
 
 # Build settings
 markdown: kramdown
