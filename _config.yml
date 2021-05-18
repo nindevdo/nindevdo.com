@@ -1,6 +1,5 @@
 title: 'nindevdo'
 description: "An Org"
-#baseurl: "/jekyll-theme-console-demo-hacker"
 url: "https://nindevdo.com"
 
 header_pages:
@@ -10,7 +9,9 @@ header_pages:
 
 style: hacker
 
-footer: 'Support us with bitcoin <img src = "assets/bitcoin-coinbase.png" alt="bitcoin" border = "0"/>
+footer: 'Support us with bitcoin <img src = "assets/bitcoin-coinbase.png" alt="bitcoin" border = "0"/>'
+
+google_analytics:
 
 # Build settings
 markdown: kramdown
