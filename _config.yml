@@ -11,7 +11,7 @@ style: hacker
 
 footer: 'Support us with bitcoin <img src = "assets/bitcoin-coinbase.png" alt="bitcoin" border = "0"/>'
 
-google_analytics:
+google_analytics: 272918663
 
 # Build settings
 markdown: kramdown
